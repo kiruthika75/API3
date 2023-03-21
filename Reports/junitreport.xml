@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.52">
+    <testcase classname="amazon Feature One" name="product Search" time="13.153">
+        <system-out><![CDATA[Given user Launch Browser...................................................passed
+When select "Baby" from Dropdown............................................passed
+Then Send The Value "soft toys".............................................passed
+And find The Exact Searchvalue In The Suggestion Click......................passed
+]]></system-out>
+    </testcase>
+</testsuite>
